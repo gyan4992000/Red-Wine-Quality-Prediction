@@ -1,2 +1,2 @@
 # Red-Wine-Quality-Prediction
-This is a ML Project
+This is a ML, Data Analysis Project
